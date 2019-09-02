@@ -1,0 +1,17 @@
+C:\Users\bowal\source\repos\SimpleAPI\test\SimpleAPI.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\bowal\source\repos\SimpleAPI\test\SimpleAPI.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\bowal\source\repos\SimpleAPI\test\SimpleAPI.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\bowal\source\repos\SimpleAPI\test\SimpleAPI.Tests\bin\Debug\netcoreapp2.2\SimpleAPI.Tests.deps.json
+C:\Users\bowal\source\repos\SimpleAPI\test\SimpleAPI.Tests\bin\Debug\netcoreapp2.2\SimpleAPI.Tests.runtimeconfig.json
+C:\Users\bowal\source\repos\SimpleAPI\test\SimpleAPI.Tests\bin\Debug\netcoreapp2.2\SimpleAPI.Tests.runtimeconfig.dev.json
+C:\Users\bowal\source\repos\SimpleAPI\test\SimpleAPI.Tests\bin\Debug\netcoreapp2.2\SimpleAPI.Tests.dll
+C:\Users\bowal\source\repos\SimpleAPI\test\SimpleAPI.Tests\bin\Debug\netcoreapp2.2\SimpleAPI.Tests.pdb
+C:\Users\bowal\source\repos\SimpleAPI\test\SimpleAPI.Tests\obj\Debug\netcoreapp2.2\SimpleAPI.Tests.csprojAssemblyReference.cache
+C:\Users\bowal\source\repos\SimpleAPI\test\SimpleAPI.Tests\obj\Debug\netcoreapp2.2\SimpleAPI.Tests.csproj.CoreCompileInputs.cache
+C:\Users\bowal\source\repos\SimpleAPI\test\SimpleAPI.Tests\obj\Debug\netcoreapp2.2\SimpleAPI.Tests.AssemblyInfoInputs.cache
+C:\Users\bowal\source\repos\SimpleAPI\test\SimpleAPI.Tests\obj\Debug\netcoreapp2.2\SimpleAPI.Tests.AssemblyInfo.cs
+C:\Users\bowal\source\repos\SimpleAPI\test\SimpleAPI.Tests\obj\Debug\netcoreapp2.2\SimpleAPI.Tests.dll
+C:\Users\bowal\source\repos\SimpleAPI\test\SimpleAPI.Tests\obj\Debug\netcoreapp2.2\SimpleAPI.Tests.pdb
+C:\Users\bowal\source\repos\SimpleAPI\test\SimpleAPI.Tests\bin\Debug\netcoreapp2.2\SimpleAPI.dll
+C:\Users\bowal\source\repos\SimpleAPI\test\SimpleAPI.Tests\bin\Debug\netcoreapp2.2\SimpleAPI.pdb
+C:\Users\bowal\source\repos\SimpleAPI\test\SimpleAPI.Tests\obj\Debug\netcoreapp2.2\SimpleAPI.Tests.csproj.CopyComplete
