@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-
 namespace SimpleAPI.Controllers
 {
     [Route("api/[controller]")]
@@ -21,7 +20,7 @@ namespace SimpleAPI.Controllers
         [HttpGet("{id}")]
         public ActionResult<string> Get(int id)
         {
-            return "Bowale";
+            return "Kemi";
         }
 
         // POST api/values
